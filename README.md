@@ -1,5 +1,6 @@
 # agricultural-market
 Site link : https://magazin-349cb.web.app/
+
 This project was bootstrapped with Create React App.
 Available Scripts
 
